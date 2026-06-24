@@ -6,7 +6,7 @@ require (
 	github.com/foomo/keel/persistence/mongo v0.26.0
 	github.com/google/uuid v1.6.0
 	github.com/stretchr/testify v1.11.1
-	go.mongodb.org/mongo-driver/v2 v2.6.0
+	go.mongodb.org/mongo-driver/v2 v2.6.2
 	go.opentelemetry.io/otel/trace v1.43.0
 	go.uber.org/zap v1.28.0
 )
